@@ -115,14 +115,15 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:036335_0000_100918C77AF7F668"/>
-            <pb facs="tcp:036335_0001_10089604EBFC4100"/>
+            <pb facs="unknown:036335_0000_100918C77AF7F668"/>
+            <pb facs="unknown:036335_0001_10089604EBFC4100"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:036335_0002_1009189537327288" rendition="simple:additions"/>
+            <pb facs="unknown:036335_0002_1009189537327288"
+                rendition="simple:additions"/>
             <p>
                <hi>SONGS AND LULLABIES</hi> OF THE GOOD OLD NURSES. CALCULATED to AMUSE CHIL<g ref="char:EOLhyphen"/>DREN. EMBELLISHED WITH CUTS: And illuſtrated with NOTES and MAXIMS, HISTORICAL, PHILOSOPHICAL and CRITICAL. FIRST <hi>WORCESTER</hi> EDITION.</p>
             <p>Printed at WORCESTER: <hi>Maſſachuſetts,</hi> BY ISAIAH THOMAS, JUN. Sold Wholeſale and Retail by Him—1799.</p>
@@ -132,7 +133,7 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:036335_0004_1009189BDF13DB38"/>
+            <pb facs="unknown:036335_0004_1009189BDF13DB38"/>
             <head>SONGS AND LULLABIES.</head>
             <p>
                <figure/>
@@ -152,7 +153,7 @@
                   <l>ded, ded, ded,</l>
                </lg>
                <lg n="2">
-                  <pb n="6" facs="tcp:036335_0005_1009189F30CDCE10"/>
+                  <pb n="6" facs="unknown:036335_0005_1009189F30CDCE10"/>
                   <head>II.</head>
                   <l>Then replied the little maid,</l>
                   <l>Little ſir, you've little ſaid</l>
@@ -175,7 +176,7 @@
                   <l>Then the little maid reply'd</l>
                   <l>Should I be your little bride,</l>
                   <l>
-                     <pb n="7" facs="tcp:036335_0006_100918A1EE0C8B30"/>
+                     <pb n="7" facs="unknown:036335_0006_100918A1EE0C8B30"/>
 Pray what muſt we have for to eat, eat, eat?</l>
                   <l>Will the flame that you're ſo rich in</l>
                   <l>Light a fire in the kitchen,</l>
@@ -194,7 +195,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                      <desc>〈…〉</desc>
                   </gap>.</p>
                <lg n="6">
-                  <pb n="8" facs="tcp:036335_0007_100918A45B4D1AF0"/>
+                  <pb n="8" facs="unknown:036335_0007_100918A45B4D1AF0"/>
                   <head>VI.</head>
                   <l>Then the little man ſo gent,</l>
                   <l>Made the little maid relent,</l>
@@ -208,7 +209,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                </p>
             </div>
             <div type="song">
-               <pb n="9" facs="tcp:036335_0008_100918A7AABC9128"/>
+               <pb n="9" facs="unknown:036335_0008_100918A7AABC9128"/>
                <p>
                   <figure/>
                </p>
@@ -227,7 +228,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                   <hi>Maxim.</hi> Thoſe arts are the moſt valuable which are of the greateſt uſe.</p>
             </div>
             <div type="song">
-               <pb n="10" facs="tcp:036335_0009_100918A98B9024E0"/>
+               <pb n="10" facs="unknown:036335_0009_100918A98B9024E0"/>
                <p>
                   <figure/>
                </p>
@@ -243,7 +244,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                   <hi>Maxim.</hi> Knowledge is a treaſure, but prac<g ref="char:EOLhyphen"/>tice is the key to it.</p>
             </div>
             <div type="song">
-               <pb n="11" facs="tcp:036335_0010_100918ABF2912CD8"/>
+               <pb n="11" facs="unknown:036335_0010_100918ABF2912CD8"/>
                <p>
                   <figure/>
                </p>
@@ -271,7 +272,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                </p>
             </div>
             <div type="song">
-               <pb n="12" facs="tcp:036335_0011_100918AE61C77218"/>
+               <pb n="12" facs="unknown:036335_0011_100918AE61C77218"/>
                <p>
                   <figure/>
                </p>
@@ -284,7 +285,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                <p>Yes ſhe can ſee that you are naughty: and don't mind your book.</p>
             </div>
             <div type="song">
-               <pb n="13" facs="tcp:036335_0012_100918B0D2F58FB8"/>
+               <pb n="13" facs="unknown:036335_0012_100918B0D2F58FB8"/>
                <p>
                   <figure/>
                </p>
@@ -299,7 +300,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                <p>It muſt be a little Dog that laugh'd, for a great Dog would be aſhamed to laugh at ſuch nonſenſe.</p>
             </div>
             <div type="song">
-               <pb n="14" facs="tcp:036335_0013_100918B3380B4658"/>
+               <pb n="14" facs="unknown:036335_0013_100918B3380B4658"/>
                <p>
                   <figure/>
                </p>
@@ -316,7 +317,7 @@ Pray what muſt we have for to eat, eat, eat?</l>
                   <l>Laid down and dy'd;</l>
                   <l>So there was an end of one, two and three,</l>
                   <l>
-                     <pb n="15" facs="tcp:036335_0014_100918B5E6823EF0"/>
+                     <pb n="15" facs="unknown:036335_0014_100918B5E6823EF0"/>
 Johnny Winkle he,</l>
                   <l>Betty Winkle ſhe,</l>
                   <l>And Piggy wiggie.</l>
@@ -329,7 +330,7 @@ Johnny Winkle he,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="16" facs="tcp:036335_0015_100918B854B7C1B8"/>
+               <pb n="16" facs="unknown:036335_0015_100918B854B7C1B8"/>
                <p>
                   <figure/>
                </p>
@@ -346,7 +347,7 @@ Johnny Winkle he,</l>
                   <l>Yet did'nt you ſee,</l>
                   <l>What naughty tricks they put up<g ref="char:EOLhyphen"/>on me,</l>
                   <l>
-                     <pb n="17" facs="tcp:036335_0016_100918BAC7A8D890"/>
+                     <pb n="17" facs="unknown:036335_0016_100918BAC7A8D890"/>
 They broke my pitcher,</l>
                   <l>And ſpilt the water,</l>
                   <l>And huffed my mother,</l>
@@ -361,7 +362,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="18" facs="tcp:036335_0017_100918BD6A45EE10"/>
+               <pb n="18" facs="unknown:036335_0017_100918BD6A45EE10"/>
                <p>
                   <figure/>
                </p>
@@ -381,7 +382,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="19" facs="tcp:036335_0018_100918BFD6C13200"/>
+               <pb n="19" facs="unknown:036335_0018_100918BFD6C13200"/>
                <p>
                   <figure/>
                </p>
@@ -401,7 +402,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="20" facs="tcp:036335_0019_100918C2415D0790"/>
+               <pb n="20" facs="unknown:036335_0019_100918C2415D0790"/>
                <p>
                   <figure/>
                </p>
@@ -417,7 +418,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="21" facs="tcp:036335_0020_100918C502FAAE18"/>
+               <pb n="21" facs="unknown:036335_0020_100918C502FAAE18"/>
                <p>
                   <figure/>
                </p>
@@ -437,7 +438,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="22" facs="tcp:036335_0021_10089603046CD7D0"/>
+               <pb n="22" facs="unknown:036335_0021_10089603046CD7D0"/>
                <p>
                   <figure/>
                </p>
@@ -453,7 +454,7 @@ They broke my pitcher,</l>
                   <hi>Maxim.</hi> Thoſe who are given to tell all they know generally tell more than they know</p>
             </div>
             <div type="song">
-               <pb n="23" facs="tcp:036335_0022_100918CB302A6608"/>
+               <pb n="23" facs="unknown:036335_0022_100918CB302A6608"/>
                <p>
                   <figure/>
                </p>
@@ -467,7 +468,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="24" facs="tcp:036335_0023_100918CCB4451E68"/>
+               <pb n="24" facs="unknown:036335_0023_100918CCB4451E68"/>
                <p>
                   <figure/>
                </p>
@@ -485,7 +486,7 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="song">
-               <pb n="25" facs="tcp:036335_0024_100918CF27510C58"/>
+               <pb n="25" facs="unknown:036335_0024_100918CF27510C58"/>
                <p>
                   <figure/>
                </p>
@@ -499,7 +500,7 @@ They broke my pitcher,</l>
                   <hi>Maxim.</hi> Point not at the faults of others with a foul anger.</p>
             </div>
             <div type="song">
-               <pb n="26" facs="tcp:036335_0025_100918D1E7514308"/>
+               <pb n="26" facs="unknown:036335_0025_100918D1E7514308"/>
                <p>
                   <figure/>
                </p>
@@ -513,7 +514,7 @@ They broke my pitcher,</l>
                   <hi>Maxim.</hi> If we do not flatter ourſelves, the flattery of others would have no effect</p>
             </div>
             <div type="song">
-               <pb n="27" facs="tcp:036335_0026_100918D450E89148"/>
+               <pb n="27" facs="unknown:036335_0026_100918D450E89148"/>
                <p>
                   <figure/>
                </p>
@@ -532,7 +533,7 @@ They broke my pitcher,</l>
                   <hi>Maxim.</hi> He that injures one threatens an Hundred.</p>
             </div>
             <div type="song">
-               <pb n="28" facs="tcp:036335_0027_100918D6C3DE9DA8"/>
+               <pb n="28" facs="unknown:036335_0027_100918D6C3DE9DA8"/>
                <p>
                   <figure/>
                </p>
@@ -547,7 +548,7 @@ They broke my pitcher,</l>
                <p>There's a good boy, eat up your pye and hold your tongue; for ſilence is the ſign of wiſdom.</p>
             </div>
             <div type="song">
-               <pb n="29" facs="tcp:036335_0028_100918DA11B70CA8"/>
+               <pb n="29" facs="unknown:036335_0028_100918DA11B70CA8"/>
                <p>
                   <figure/>
                </p>
@@ -561,12 +562,12 @@ They broke my pitcher,</l>
                </p>
             </div>
             <div type="illustrations">
-               <pb facs="tcp:036335_0029_100918DBEEDC8D30"/>
+               <pb facs="unknown:036335_0029_100918DBEEDC8D30"/>
                <p>
                   <figure/>
                </p>
                <p>
-                  <pb facs="tcp:036335_0030_100918DE5AEDA958"/>
+                  <pb facs="unknown:036335_0030_100918DE5AEDA958"/>
                   <figure/>
                </p>
             </div>
